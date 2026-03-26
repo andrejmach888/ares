@@ -1,6 +1,6 @@
 # ARES & Iterator — Laravel Project
 
-## Úloha 1 — Iterator (FizzBuzz)
+## Úloha 1 — Iterator
 
 ### Algoritmus
 
